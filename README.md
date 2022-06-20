@@ -3,7 +3,6 @@
 <br>
 
 〽️ Full Stack Web development (MERN) | Android & Flutter Development
-
 〽️ DevOps | Cloud | Kubernetes Enthuse
 
 〽️ Wanna contribute in Open Source 
