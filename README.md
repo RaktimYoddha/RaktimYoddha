@@ -21,9 +21,12 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raktimyoddha&show_icons=true&theme=highcontrast&locale=en" alt="raktimyoddha" /></p>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raktimyoddha&theme=highcontrast" alt="raktimyoddha" /></p>
  <p align="left">
+ <br>
+ 
  <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/raktim_yoddha07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raktim_yoddha07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raktim-yoddha-724714232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raktim-yoddha-724714232" height="30" width="40" /></a>
