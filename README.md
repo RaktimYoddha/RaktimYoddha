@@ -2,13 +2,13 @@
 <h3 align="center">DevOps and Open source Enthuse</h3>
 <br>
 
-〽️Full Stack Web development (MERN) | Android & Flutter Development
+〽️ Full Stack Web development (MERN) | Android & Flutter Development
 
-〽️DevOps | Cloud | Kubernetes Enthuse
+〽️ DevOps | Cloud | Kubernetes Enthuse
 
-〽️Wanna contribute in Open Source 
+〽️ Wanna contribute in Open Source 
 
-〽️Bit interested in Web3
+〽️ Bit interested in Web3
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
