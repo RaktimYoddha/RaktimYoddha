@@ -22,7 +22,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raktimyoddha&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="raktimyoddha" /></p>
 <br>
 
- <h3 align="left">Connect with me:</h3>
+ <h3 align="left">Find me on:</h3>
  <hr>
 <a href="https://twitter.com/raktim_yoddha07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raktim_yoddha07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raktim-yoddha-724714232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raktim-yoddha-724714232" height="30" width="40" /></a>
