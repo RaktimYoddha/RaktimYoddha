@@ -3,6 +3,14 @@
 
 <p align="left"> <a href="https://twitter.com/raktim_yoddha07" target="blank"><img src="https://img.shields.io/twitter/follow/raktim_yoddha07?logo=twitter&style=for-the-badge" alt="raktim_yoddha07" /></a> </p>
 
+- 〽️Full Stack Web development (MERN) | Android & Flutter Development
+
+- 〽️Bit interested in Web3
+
+- 〽️DevOps | Cloud | Kubernetes Enthuse
+
+- 〽️Wanna contribute in Open Source
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raktim_yoddha07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raktim_yoddha07" height="30" width="40" /></a>
@@ -18,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raktimyoddha&show_icons=true&theme=dark&locale=en" alt="raktimyoddha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raktimyoddha&theme=dark" alt="raktimyoddha" /></p>
-
