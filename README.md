@@ -31,4 +31,5 @@ NOTE:- The top languages do not portray my skills in a specific language, it's j
 <a href="https://instagram.com/raktim_yoddha03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raktim_yoddha03" height="30" width="40" /></a>
 </p>
 <hr>
+<br>
 <h2>Thanks for the visit✌️</h2>
