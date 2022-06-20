@@ -5,11 +5,11 @@
 
 - 〽️Full Stack Web development (MERN) | Android & Flutter Development
 
-- 〽️Bit interested in Web3
-
 - 〽️DevOps | Cloud | Kubernetes Enthuse
 
 - 〽️Wanna contribute in Open Source
+
+- 〽️Bit interested in Web3
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
