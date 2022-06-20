@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raktim Yoddha</h1>
 <h3 align="center">DevOps and Open source Enthuse</h3>
 
-- 〽️Full Stack Web development (MERN) | Android & Flutter Development
+〽️Full Stack Web development (MERN) | Android & Flutter Development
 
-- 〽️DevOps | Cloud | Kubernetes Enthuse
+〽️DevOps | Cloud | Kubernetes Enthuse
 
 - 〽️Wanna contribute in Open Source 
 
