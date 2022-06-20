@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raktim Yoddha</h1>
 <h3 align="center">DevOps and Open source Enthuse</h3>
 
-<p align="left"> <a href="https://twitter.com/raktim_yoddha07" target="blank"><img src="https://img.shields.io/twitter/follow/raktim_yoddha07?logo=twitter&style=for-the-badge" alt="raktim_yoddha07" /></a> </p>
-
 - 〽️Full Stack Web development (MERN) | Android & Flutter Development
 
 - 〽️DevOps | Cloud | Kubernetes Enthuse
