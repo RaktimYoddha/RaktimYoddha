@@ -17,9 +17,10 @@
 <hr>
 <br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raktimyoddha&show_icons=true&theme=highcontrast&locale=en" alt="raktimyoddha" /></p>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raktimyoddha&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="raktimyoddha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raktimyoddha&show_icons=true&theme=highcontrast&locale=en" alt="raktimyoddha" /></p>
 NOTE:- The top languages do not portray my skills in a specific language, it's just a metric to show which language is used in my repositories accordingly.
 <br>
 <br>
