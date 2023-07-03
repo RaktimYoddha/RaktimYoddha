@@ -1,5 +1,5 @@
 # 💫 About Me:
-- MERN Stack Web Developer<br> - AI/ML/DL Models<br> - Web 3.0 enthusiast 
+- MERN Stack Web Developer<br> <div>- AI/ML/DL Models</div><br> - Web 3.0 enthusiast 
 
 
 ## 🌐 Socials:
