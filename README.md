@@ -12,13 +12,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RaktimYoddha&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaktimYoddha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RaktimYoddha&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RaktimYoddha&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=RaktimYoddha&icon=1&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
